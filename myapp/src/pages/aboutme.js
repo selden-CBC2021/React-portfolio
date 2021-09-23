@@ -1,14 +1,15 @@
 import React from "react";
 import PIC from "../assets/images/index";
+
 function About() {
   return (
     <div class="section clearfix">
-  <div class="container mt-3">
-     <div class="row">
-       <div class="col-md-12">
-         <h2 class="text-center" id="About">About</h2>
+      <div class="container mt-3">
+        <div class="row">
+          <div class="col-md-12">
+            <h2 class="text-center" id="About">About</h2>
           <br/>
-          <div class="row">
+            <div class="row">
             <div class="col-sm-3">
               <img src={PIC.drewProfile} class="rounded-circle col-sm-8 " alt="screenshot of Drew"/>
             </div>

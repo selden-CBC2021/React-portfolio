@@ -2,11 +2,12 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
 import { Nav, Navbar } from "react-bootstrap";
 import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
-import About from "./pages/aboutme";
-import Contact from "./pages/contact";
-import Projects from "./pages/projects";
-import Resume from "./pages/resume";
-import Footer from "./components/footer";
+import About from "./pages/Aboutme";
+import Contact from "./pages/Contact";
+import Projects from "./pages/Projects";
+import Resume from "./pages/Resume";
+
+
 function App() {
   return (
     <BrowserRouter>
@@ -42,7 +43,6 @@ function App() {
           <Route path="/contact" component={Contact} />
           <Route path="/resume" component={Resume} />
         </Switch>
-        <Footer />
       </div>
     </BrowserRouter>
   );
