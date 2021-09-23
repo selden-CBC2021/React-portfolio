@@ -1,7 +1,7 @@
 # React-portfolio
 
 ## Description
-![image](https://github.com/selden-CBC2021/React-portfolio/issues/2#issue-1004988050)
+<img width="944" alt="reactsite" src="https://user-images.githubusercontent.com/80554184/134453348-ac6f6352-231f-44f3-ba31-bc6590713a79.png">
 
 [Check out my react portfolio here](https://selden-cbc2021.github.io/)
 ## User Story
