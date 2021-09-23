@@ -1,7 +1,7 @@
 # React-portfolio
 
 ## Description
-![alt text](myapp/assets/images/reactsite.png)
+![alt text](https://github.com/selden-CBC2021/React-portfolio/issues/2#issue-1004988050)
 
 [Check out my react portfolio here](https://selden-cbc2021.github.io/)
 ## User Story
